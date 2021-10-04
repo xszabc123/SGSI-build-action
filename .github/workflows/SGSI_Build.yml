@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  ROM_URL: 'https://113-14-96-1.ksyungslb.com/bigota.d.miui.com/21.4.21/miui_VIOLET_21.4.21_ddb47e165d_10.0.zip'
+  ZIP_NAME: 'miui_VIOLET_21.4.21_ddb47e165d_10.0'
+  OS_TYPE: 'miui'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  REPACK_NAME: 'SGSI-a10-note7-miui12.5.zip'
+  VERSION: '11'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
