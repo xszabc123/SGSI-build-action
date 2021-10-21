@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/V12.5.1.0.QFHCNXM/miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip'
-  ZIP_NAME: 'miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip'
-  OS_TYPE: 'miui'
+  ROM_URL: 'https://throbbing-bonus-11c9.octavios.workers.dev/0:/Whyred/OctaviOS-v3.0-whyred-20211018-1656-GAPPS-OFFICIAL.zip'
+  ZIP_NAME: 'OctaviOS-v3.0-whyred-20211018-1656-GAPPS-OFFICIAL.zip'
+  OS_TYPE: 'pixel'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI-a10-note7-miui12.5.zip'
-  VERSION: '10'
+  REPACK_NAME: 'SGSI.zip'
+  VERSION: '12'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
