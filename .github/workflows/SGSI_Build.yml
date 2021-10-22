@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://throbbing-bonus-11c9.octavios.workers.dev/0:/Whyred/OctaviOS-v3.0-whyred-20211018-1656-GAPPS-OFFICIAL.zip'
-  ZIP_NAME: 'OctaviOS-v3.0-whyred-20211018-1656-GAPPS-OFFICIAL.zip'
-  OS_TYPE: 'pixel'
+  ROM_URL: 'https://dl2.serctl.com/downloads8/2021-10-22-12-56-31-device_xiaomi_lavender-OctaviOS-v3.0-lavender-20211020-1607-GAPPS-UNOFFICIAL.zip'
+  ZIP_NAME: '2021-10-22-12-56-31-device_xiaomi_lavender-OctaviOS-v3.0-lavender-20211020-1607-GAPPS-UNOFFICIAL.zip'
+  OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
